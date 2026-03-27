@@ -1,26 +1,40 @@
-# Hello, I'm Nil Torrelles Puente! 👋
+# Hi there, I'm Nil Torrelles Puente! 👋
 
 ## 👨‍💻 About Me
 
-I'm currently in my fourth year of a Computer Science degree. On this GitHub, you'll find a variety of works done during my university time, as well as personal projects I've embarked on.
+Software Engineer passionate about building scalable, efficient, and automated systems. My current professional focus is leaning heavily toward the **Cloud ecosystem, process automation, and DevOps culture**.
 
-I consider myself a curious, ambitious, and outgoing person. I'm always looking to discover new things, whether by exploring areas like Machine Learning, software development, or cloud technologies. These fields fascinate me because they represent constant challenges and endless possibilities for innovation.
+I consider myself a curious, ambitious, and outgoing professional. I thrive when facing complex technical challenges and translating them into clean, functional software solutions. My goal is to design modern architectures that streamline product delivery and enhance developer experience.
 
-## 🌱 Interests and Passions
+---
 
-- 📚 **Continuous Learning**: I am always eager to learn more and expand my knowledge.
-- 👥 **Teamwork**: I firmly believe in the power of collaboration to achieve great things.
-- 🚀 **Personal Projects**: I love applying what I've learned in my own projects.
+## 🚀 Core Interests & Expertise
 
-## 🔍 Seeking Opportunities
+* ☁️ **Cloud & DevOps Ecosystems**: CI/CD pipelines, containerization, and Infrastructure as Code (IaC).
+* 🤖 **AI & Automation**: Building intelligent chatbots focused on productivity and student assistance.
+* 🌐 **Modern Web Development**: Crafting dynamic platforms using cutting-edge technologies (Next.js, TypeScript, React).
+* ⚙️ **Scripting & Tooling**: Developing automation scripts to eliminate repetitive tasks and optimize workflows.
 
-I am currently looking for internship opportunities where I can apply and expand my skills, make a meaningful contribution, and continue learning in the field of computer science.
+---
 
-## 📫 How to Reach Me
+## 🛠️ Personal Projects & Lab
+
+When I'm not working, I love experimenting in my own sandbox:
+* **Educational Chatbots**: Conversational models designed to assist students in their day-to-day academic life.
+* **Dynamic Web Apps**: Full-stack applications tackling real-world scenarios (E-commerce, Real Estate, SaaS).
+* **Cloud Sandboxes**: Personal infrastructure automation and serverless deployments.
+
+---
+
+## 📫 Let's Connect!
+
+Feel free to reach out if you want to talk about Cloud, automation, or just to network!
 
 <p align="left">
- <a href="https://www.linkedin.com/in/nil-torrelles-puente-1070882b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niltorrellespuente" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/nil-torrelles-puente-1070882b5/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niltorrellespuente" height="30" width="40" />
+ </a>
 </p>
 
-Thank you for visiting my profile!
-
+---
+Thanks for stopping by! 🚀
